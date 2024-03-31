@@ -2,7 +2,7 @@
 This project populates a Neo4j Graph Database using a collection of records on companies and executes various search queries against the database to extract meaningful insights. 
 
 ### Preperation
-- A new Jupyter Notebook is creaed.
+- A new Jupyter Notebook is created.
 - Neo4j is setup and the necessary Python package is installed.
 - Jupyter Notebook is used to import data and establish node relationships.
 
